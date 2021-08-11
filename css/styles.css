@@ -1,0 +1,48 @@
+body{
+  background-color:#EAF6F6;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width: 5px;
+  width: 3%;
+}
+img{
+  height: 250px;
+  width: 250px;
+}
+h1{
+  text-align: left;
+  color: #66BFBF;
+  font-family: Monaco,monospace;
+}
+h3{
+  color: #66BFBF;
+  font-family: Monaco,monospace;
+  font-size: 24px;
+}
+p{
+  font-family: Monaco,monospace;
+  text-align: justify;
+  color: #0C374D;
+}
+ul li{
+  font-family: Monaco,monospace;
+  margin-bottom: 5px;
+  color: #0C374D;
+}
+Ol li{
+  font-family: Monaco,monospace;
+  margin-bottom: 5px;
+  color: #0C374D;
+}
+table{
+  font-family: Monaco,monospace;
+  color: #0C374D;
+}
+Form{
+  font-family: Monaco,monospace;
+  color: #0C374D;
+  align-items: center;
+}
